@@ -1,0 +1,88 @@
+
+Command:catch [set result [catch [exec a.bat]] ]
+Produced message:
+
+C:\LsdLatest\Work\tb>make -fmakefile  2>makemessage.txt 
+g++ -g -c fun_tb.cpp -IC:/LsdLatest/gnu/include -IC:/LsdLatest/gnu/include  -IC:/LsdLatest/gnu/include -IC:/LsdLatest/src
+child process exited abnormally
+-----
+
+pack .s.o.l .s.o.a rrr.s.o.c .s.o.b .s.o.g .s.o.p -expand yes -fill x -anchor w
+
+bad option "rrr.s.o.c": must be -after, -anchor, -before, -expand, -fill, -in, -ipadx, -ipady, -padx, -pady, or -side
+
+pack .s.o.l .s.o.a rrr.s.o.c .s.o.b .s.o.g .s.o.p -expand yes -fill x -anchor w
+
+bad option "rrr.s.o.c": must be -after, -anchor, -before, -expand, -fill, -in, -ipadx, -ipady, -padx, -pady, or -side
+
+pack .s.o.l .s.o.a rrr.s.o.c .s.o.b .s.o.g .s.o.p -expand yes -fill x -anchor w
+
+bad option "rrr.s.o.c": must be -after, -anchor, -before, -expand, -fill, -in, -ipadx, -ipady, -padx, -pady, or -side
+
+pack .s.o.l .s.o.a rrr.s.o.c .s.o.b .s.o.g .s.o.p -expand yes -fill x -anchor w
+
+bad option "rrr.s.o.c": must be -after, -anchor, -before, -expand, -fill, -in, -ipadx, -ipady, -padx, -pady, or -side
+
+pack .s.o.l .s.o.a rrr.s.o.c .s.o.b .s.o.g .s.o.p -expand yes -fill x -anchor w
+
+bad option "rrr.s.o.c": must be -after, -anchor, -before, -expand, -fill, -in, -ipadx, -ipady, -padx, -pady, or -side
+
+catch [foreach b $a {catch [file delete -force $b]}]
+
+error deleting "plotxy_5": permission denied
+
+Command:catch [set result [catch [exec a.bat]] ]
+Produced message:
+
+C:\LsdLatest\Work\tb>make -fmakefile  2>makemessage.txt 
+g++ -g -c fun_tb.cpp -IC:/LsdLatest/gnu/include -IC:/LsdLatest/gnu/include  -IC:/LsdLatest/gnu/include -IC:/LsdLatest/src
+child process exited abnormally
+-----
+
+Command:catch [set result [catch [exec a.bat]] ]
+Produced message:
+
+C:\LsdLatest\Work\tb>make -fmakefile  2>makemessage.txt 
+g++ -g -c fun_tb.cpp -IC:/LsdLatest/gnu/include -IC:/LsdLatest/gnu/include  -IC:/LsdLatest/gnu/include -IC:/LsdLatest/src
+child process exited abnormally
+-----
+
+Command:catch [set result [catch [exec a.bat]] ]
+Produced message:
+
+C:\LsdLatest\Work\tb>make -fmakefile  2>makemessage.txt 
+g++ -g -c fun_tb.cpp -IC:/LsdLatest/gnu/include -IC:/LsdLatest/gnu/include  -IC:/LsdLatest/gnu/include -IC:/LsdLatest/src
+child process exited abnormally
+-----
+
+pack .s.o.l .s.o.a rrr.s.o.c .s.o.b .s.o.g .s.o.p -expand yes -fill x -anchor w
+
+bad option "rrr.s.o.c": must be -after, -anchor, -before, -expand, -fill, -in, -ipadx, -ipady, -padx, -pady, or -side
+
+catch [foreach b $a {catch [file delete -force $b]}]
+
+error deleting "plotxy_5": permission denied
+
+pack .s.o.l .s.o.a rrr.s.o.c .s.o.b .s.o.g .s.o.p -expand yes -fill x -anchor w
+
+bad option "rrr.s.o.c": must be -after, -anchor, -before, -expand, -fill, -in, -ipadx, -ipady, -padx, -pady, or -side
+
+pack .s.o.l .s.o.a rrr.s.o.c .s.o.b .s.o.g .s.o.p -expand yes -fill x -anchor w
+
+bad option "rrr.s.o.c": must be -after, -anchor, -before, -expand, -fill, -in, -ipadx, -ipady, -padx, -pady, or -side
+
+pack .s.o.l .s.o.a rrr.s.o.c .s.o.b .s.o.g .s.o.p -expand yes -fill x -anchor w
+
+bad option "rrr.s.o.c": must be -after, -anchor, -before, -expand, -fill, -in, -ipadx, -ipady, -padx, -pady, or -side
+
+pack .s.o.l .s.o.a rrr.s.o.c .s.o.b .s.o.g .s.o.p -expand yes -fill x -anchor w
+
+bad option "rrr.s.o.c": must be -after, -anchor, -before, -expand, -fill, -in, -ipadx, -ipady, -padx, -pady, or -side
+
+pack .s.o.l .s.o.a rrr.s.o.c .s.o.b .s.o.g .s.o.p -expand yes -fill x -anchor w
+
+bad option "rrr.s.o.c": must be -after, -anchor, -before, -expand, -fill, -in, -ipadx, -ipady, -padx, -pady, or -side
+
+pack .s.o.l .s.o.a rrr.s.o.c .s.o.b .s.o.g .s.o.p -expand yes -fill x -anchor w
+
+bad option "rrr.s.o.c": must be -after, -anchor, -before, -expand, -fill, -in, -ipadx, -ipady, -padx, -pady, or -side

@@ -1,0 +1,290 @@
+\BOOKMARK [-1][-]{part.1}{I Simulations and L-.58exS-.2exD}{}% 1
+\BOOKMARK [0][-]{chapter.1}{Why using L-.58exS-.2exD?}{part.1}% 2
+\BOOKMARK [1][-]{section.1.1}{Simple to use AND powerful}{chapter.1}% 3
+\BOOKMARK [1][-]{section.1.2}{Open-ended simulation models}{chapter.1}% 4
+\BOOKMARK [1][-]{section.1.3}{Controlling simulation models}{chapter.1}% 5
+\BOOKMARK [1][-]{section.1.4}{Intended audiences, aims and content}{chapter.1}% 6
+\BOOKMARK [2][-]{subsection.1.4.1}{Content of chapter I}{section.1.4}% 7
+\BOOKMARK [2][-]{subsection.1.4.2}{Content of chapter II}{section.1.4}% 8
+\BOOKMARK [2][-]{subsection.1.4.3}{Content of chapter III}{section.1.4}% 9
+\BOOKMARK [2][-]{subsection.1.4.4}{Content of chapter IV}{section.1.4}% 10
+\BOOKMARK [1][-]{section.1.5}{Methodological issues on simulations}{chapter.1}% 11
+\BOOKMARK [1][-]{section.1.6}{History of L-.58exS-.2exD}{chapter.1}% 12
+\BOOKMARK [2][-]{subsection.1.6.1}{L-.58exS-.2exD pre-history}{section.1.6}% 13
+\BOOKMARK [2][-]{subsection.1.6.2}{L-.58exS-.2exD 0.01}{section.1.6}% 14
+\BOOKMARK [2][-]{subsection.1.6.3}{L-.58exS-.2exD in use}{section.1.6}% 15
+\BOOKMARK [0][-]{chapter.2}{Features of Laboratory for Simulation Development}{part.1}% 16
+\BOOKMARK [1][-]{section.2.1}{Simulation Model elements}{chapter.2}% 17
+\BOOKMARK [2][-]{subsection.2.1.1}{Variables}{section.2.1}% 18
+\BOOKMARK [2][-]{subsection.2.1.2}{Functions}{section.2.1}% 19
+\BOOKMARK [2][-]{subsection.2.1.3}{Parameters}{section.2.1}% 20
+\BOOKMARK [2][-]{subsection.2.1.4}{Objects}{section.2.1}% 21
+\BOOKMARK [2][-]{subsection.2.1.5}{Data required for a simulation run}{section.2.1}% 22
+\BOOKMARK [1][-]{section.2.2}{Overview of the L-.58exS-.2exD package}{chapter.2}% 23
+\BOOKMARK [2][-]{subsection.2.2.1}{L-.58exS-.2exD Model Manager - LMM}{section.2.2}% 24
+\BOOKMARK [2][-]{subsection.2.2.2}{L-.58exS-.2exD model programs}{section.2.2}% 25
+\BOOKMARK [1][-]{section.2.3}{Technical requirements}{chapter.2}% 26
+\BOOKMARK [1][-]{section.2.4}{Installation}{chapter.2}% 27
+\BOOKMARK [2][-]{subsection.2.4.1}{Windows platforms}{section.2.4}% 28
+\BOOKMARK [2][-]{subsection.2.4.2}{Linux and Unix-based plaftorms}{section.2.4}% 29
+\BOOKMARK [2][-]{subsection.2.4.3}{MacOS}{section.2.4}% 30
+\BOOKMARK [1][-]{section.2.5}{L-.58exS-.2exD Model Manager - A first look}{chapter.2}% 31
+\BOOKMARK [0][-]{chapter.3}{Example 1 - Random Walk}{part.1}% 32
+\BOOKMARK [1][-]{section.3.1}{Random walk}{chapter.3}% 33
+\BOOKMARK [1][-]{section.3.2}{Analysing the results}{chapter.3}% 34
+\BOOKMARK [1][-]{section.3.3}{Managing random events}{chapter.3}% 35
+\BOOKMARK [1][-]{section.3.4}{Multiple objects}{chapter.3}% 36
+\BOOKMARK [1][-]{section.3.5}{L-.58exS-.2exD automatic data retrieving}{chapter.3}% 37
+\BOOKMARK [1][-]{section.3.6}{Functions vs variables}{chapter.3}% 38
+\BOOKMARK [1][-]{section.3.7}{Analysing massive amounts of data}{chapter.3}% 39
+\BOOKMARK [-1][-]{part.2}{II Tutorials}{}% 40
+\BOOKMARK [0][-]{chapter.4}{Implementing L-.58exS-.2exD models: Example 1}{part.2}% 41
+\BOOKMARK [1][-]{section.4.1}{Create a new model project}{chapter.4}% 42
+\BOOKMARK [1][-]{section.4.2}{Introduction to L-.58exS-.2exD equations}{chapter.4}% 43
+\BOOKMARK [1][-]{section.4.3}{Defining L-.58exS-.2exD model elements}{chapter.4}% 44
+\BOOKMARK [1][-]{section.4.4}{Running L-.58exS-.2exD simulations}{chapter.4}% 45
+\BOOKMARK [1][-]{section.4.5}{Results of L-.58exS-.2exD simulation runs}{chapter.4}% 46
+\BOOKMARK [1][-]{section.4.6}{Extending a L-.58exS-.2exD model equations}{chapter.4}% 47
+\BOOKMARK [1][-]{section.4.7}{Initializing L-.58exS-.2exD elements}{chapter.4}% 48
+\BOOKMARK [1][-]{section.4.8}{Setting the number of objects}{chapter.4}% 49
+\BOOKMARK [1][-]{section.4.9}{Initializing multiple elements}{chapter.4}% 50
+\BOOKMARK [1][-]{section.4.10}{Plotting multiple series}{chapter.4}% 51
+\BOOKMARK [1][-]{section.4.11}{Statistics}{chapter.4}% 52
+\BOOKMARK [1][-]{section.4.12}{Comments on equations' code}{chapter.4}% 53
+\BOOKMARK [1][-]{section.4.13}{Simulation settings}{chapter.4}% 54
+\BOOKMARK [1][-]{section.4.14}{Using lagged variables}{chapter.4}% 55
+\BOOKMARK [1][-]{section.4.15}{Multi-layered object structure}{chapter.4}% 56
+\BOOKMARK [1][-]{section.4.16}{Equations for multi-layered models}{chapter.4}% 57
+\BOOKMARK [1][-]{section.4.17}{L-.58exS-.2exD Simulation Manager}{chapter.4}% 58
+\BOOKMARK [1][-]{section.4.18}{Extending the model: quality and sales }{chapter.4}% 59
+\BOOKMARK [1][-]{section.4.19}{Assessing the model's behaviour}{chapter.4}% 60
+\BOOKMARK [1][-]{section.4.20}{Generating new series}{chapter.4}% 61
+\BOOKMARK [1][-]{section.4.21}{Replacing a variable}{chapter.4}% 62
+\BOOKMARK [1][-]{section.4.22}{Dead-lock errors - Spotting and fixing temporal inconsistencies}{chapter.4}% 63
+\BOOKMARK [1][-]{section.4.23}{Modelling Time: changing order of L-.58exS-.2exD equations}{chapter.4}% 64
+\BOOKMARK [1][-]{section.4.24}{Interpreting results}{chapter.4}% 65
+\BOOKMARK [1][-]{section.4.25}{L-.58exS-.2exD Debugger}{chapter.4}% 66
+\BOOKMARK [0][-]{chapter.5}{Implementing L-.58exS-.2exD Models: Example 2}{part.2}% 67
+\BOOKMARK [1][-]{section.5.1}{Model Content}{chapter.5}% 68
+\BOOKMARK [1][-]{section.5.2}{Model structure and core equations}{chapter.5}% 69
+\BOOKMARK [1][-]{section.5.3}{Finding model data in L-.58exS-.2exD equations \(equation for IsBroken\)}{chapter.5}% 70
+\BOOKMARK [2][-]{subsection.5.3.1}{Automatic data retrieving}{section.5.3}% 71
+\BOOKMARK [2][-]{subsection.5.3.2}{Manual data retrieving}{section.5.3}% 72
+\BOOKMARK [2][-]{subsection.5.3.3}{Functions vs. Variables}{section.5.3}% 73
+\BOOKMARK [2][-]{subsection.5.3.4}{Accessing the calling object}{section.5.3}% 74
+\BOOKMARK [2][-]{subsection.5.3.5}{Accessing a randomly chosen object}{section.5.3}% 75
+\BOOKMARK [1][-]{section.5.4}{Using parameters as ``passive'' variables}{chapter.5}% 76
+\BOOKMARK [1][-]{section.5.5}{Manual scheduling: semaphores}{chapter.5}% 77
+\BOOKMARK [1][-]{section.5.6}{Initialization by code}{chapter.5}% 78
+\BOOKMARK [1][-]{section.5.7}{Testing models}{chapter.5}% 79
+\BOOKMARK [1][-]{section.5.8}{Code optimization}{chapter.5}% 80
+\BOOKMARK [2][-]{subsection.5.8.1}{Optimization running options}{section.5.8}% 81
+\BOOKMARK [2][-]{subsection.5.8.2}{Optimizing code: hook}{section.5.8}% 82
+\BOOKMARK [2][-]{subsection.5.8.3}{Optimizing code: V\137CHEAT}{section.5.8}% 83
+\BOOKMARK [2][-]{subsection.5.8.4}{Optimizing large models: turbosearch}{section.5.8}% 84
+\BOOKMARK [0][-]{chapter.6}{Implementing L-.58exS-.2exD Models: Example 2}{part.2}% 85
+\BOOKMARK [1][-]{section.6.1}{Functions}{chapter.6}% 86
+\BOOKMARK [1][-]{section.6.2}{Analysis of Results: Histograms}{chapter.6}% 87
+\BOOKMARK [1][-]{section.6.3}{L-.58exS-.2exD equations: the calling object c}{chapter.6}% 88
+\BOOKMARK [1][-]{section.6.4}{More on the L-.58exS-.2exD Debugger}{chapter.6}% 89
+\BOOKMARK [1][-]{section.6.5}{Extending the model}{chapter.6}% 90
+\BOOKMARK [1][-]{section.6.6}{Multiple parallel simulations}{chapter.6}% 91
+\BOOKMARK [1][-]{section.6.7}{Series tags and advanced selection}{chapter.6}% 92
+\BOOKMARK [1][-]{section.6.8}{Cross-section scatter plots}{chapter.6}% 93
+\BOOKMARK [1][-]{section.6.9}{Creating new series}{chapter.6}% 94
+\BOOKMARK [1][-]{section.6.10}{Random events}{chapter.6}% 95
+\BOOKMARK [1][-]{section.6.11}{Conditional searches}{chapter.6}% 96
+\BOOKMARK [1][-]{section.6.12}{Endogenizing parameters}{chapter.6}% 97
+\BOOKMARK [1][-]{section.6.13}{Custom initialization: overwriting elements' values}{chapter.6}% 98
+\BOOKMARK [1][-]{section.6.14}{Nested cycles}{chapter.6}% 99
+\BOOKMARK [1][-]{section.6.15}{Testing the Smallwood and Conlisk \(1979\) model}{chapter.6}% 100
+\BOOKMARK [1][-]{section.6.16}{Optimizing simulations: semaphores}{chapter.6}% 101
+\BOOKMARK [1][-]{section.6.17}{Optimizing simulations: pointer hook}{chapter.6}% 102
+\BOOKMARK [1][-]{section.6.18}{L-.58exS-.2exD Automatic Documentation}{chapter.6}% 103
+\BOOKMARK [1][-]{section.6.19}{Using the Model Report}{chapter.6}% 104
+\BOOKMARK [0][-]{chapter.7}{Example Models}{part.2}% 105
+\BOOKMARK [1][-]{section.7.1}{Logistic chaotic model}{chapter.7}% 106
+\BOOKMARK [1][-]{section.7.2}{Spatial market model}{chapter.7}% 107
+\BOOKMARK [1][-]{section.7.3}{Moving snake model}{chapter.7}% 108
+\BOOKMARK [1][-]{section.7.4}{Financial market model}{chapter.7}% 109
+\BOOKMARK [1][-]{section.7.5}{Business plan assessment}{chapter.7}% 110
+\BOOKMARK [1][-]{section.7.6}{Network externality model}{chapter.7}% 111
+\BOOKMARK [1][-]{section.7.7}{Nelson and Winter \(1982\) model}{chapter.7}% 112
+\BOOKMARK [1][-]{section.7.8}{Lotka Volterra model}{chapter.7}% 113
+\BOOKMARK [1][-]{section.7.9}{Richardson's dynamic competition}{chapter.7}% 114
+\BOOKMARK [1][-]{section.7.10}{Percolation model}{chapter.7}% 115
+\BOOKMARK [1][-]{section.7.11}{Social network model}{chapter.7}% 116
+\BOOKMARK [1][-]{section.7.12}{Bounded rational demand}{chapter.7}% 117
+\BOOKMARK [1][-]{section.7.13}{NK fitness landscape}{chapter.7}% 118
+\BOOKMARK [-1][-]{part.3}{III L-.58exS-.2exD Manuals}{}% 119
+\BOOKMARK [0][-]{chapter.8}{LMM interfaces}{part.3}% 120
+\BOOKMARK [1][-]{section.8.1}{Editor features}{chapter.8}% 121
+\BOOKMARK [2][-]{subsection.8.1.1}{Click with the right button of the mouse}{section.8.1}% 122
+\BOOKMARK [2][-]{subsection.8.1.2}{Insert L-.58exS-.2exD Script }{section.8.1}% 123
+\BOOKMARK [1][-]{section.8.2}{Menu File}{chapter.8}% 124
+\BOOKMARK [1][-]{section.8.3}{Menu Edit}{chapter.8}% 125
+\BOOKMARK [2][-]{subsection.8.3.1}{Go to line \(Ctrl+l\)}{section.8.3}% 126
+\BOOKMARK [2][-]{subsection.8.3.2}{Match \173\175 \(Ctrl+m\)}{section.8.3}% 127
+\BOOKMARK [2][-]{subsection.8.3.3}{Match \(\) \(Ctrl+p\)}{section.8.3}% 128
+\BOOKMARK [2][-]{subsection.8.3.4}{Insert \173 and Insert \175 \(Ctrl+\( and Ctrl+\)\) }{section.8.3}% 129
+\BOOKMARK [2][-]{subsection.8.3.5}{Wrap/Unwrap \(Ctrl+w\)}{section.8.3}% 130
+\BOOKMARK [2][-]{subsection.8.3.6}{TkDiff }{section.8.3}% 131
+\BOOKMARK [2][-]{subsection.8.3.7}{Compare models}{section.8.3}% 132
+\BOOKMARK [1][-]{section.8.4}{Menu Model}{chapter.8}% 133
+\BOOKMARK [2][-]{subsection.8.4.1}{Browse Models}{section.8.4}% 134
+\BOOKMARK [2][-]{subsection.8.4.2}{Compile and Run model}{section.8.4}% 135
+\BOOKMARK [2][-]{subsection.8.4.3}{GDB Debug}{section.8.4}% 136
+\BOOKMARK [2][-]{subsection.8.4.4}{Show Equation File}{section.8.4}% 137
+\BOOKMARK [2][-]{subsection.8.4.5}{Show Makefile}{section.8.4}% 138
+\BOOKMARK [2][-]{subsection.8.4.6}{Show Compilation results}{section.8.4}% 139
+\BOOKMARK [2][-]{subsection.8.4.7}{Show Description}{section.8.4}% 140
+\BOOKMARK [2][-]{subsection.8.4.8}{Model Info}{section.8.4}% 141
+\BOOKMARK [2][-]{subsection.8.4.9}{System compilation options}{section.8.4}% 142
+\BOOKMARK [2][-]{subsection.8.4.10}{Model compilation option}{section.8.4}% 143
+\BOOKMARK [2][-]{subsection.8.4.11}{Generate a 'NO WINDOW' makefile}{section.8.4}% 144
+\BOOKMARK [1][-]{section.8.5}{Menu Help}{chapter.8}% 145
+\BOOKMARK [0][-]{chapter.9}{L-.58exS-.2exD model program interfaces}{part.3}% 146
+\BOOKMARK [1][-]{section.9.1}{Browser window features}{chapter.9}% 147
+\BOOKMARK [2][-]{subsection.9.1.1}{Moving elements}{section.9.1}% 148
+\BOOKMARK [2][-]{subsection.9.1.2}{Options for an element}{section.9.1}% 149
+\BOOKMARK [2][-]{subsection.9.1.3}{Objects' options}{section.9.1}% 150
+\BOOKMARK [1][-]{section.9.2}{Menu File}{chapter.9}% 151
+\BOOKMARK [1][-]{section.9.3}{Menu Model}{chapter.9}% 152
+\BOOKMARK [2][-]{subsection.9.3.1}{Add a variable \(Ctrl+v\)}{section.9.3}% 153
+\BOOKMARK [2][-]{subsection.9.3.2}{Add a parameter \(Ctrl+p\)}{section.9.3}% 154
+\BOOKMARK [2][-]{subsection.9.3.3}{Add a function \(Ctrl+n\)}{section.9.3}% 155
+\BOOKMARK [2][-]{subsection.9.3.4}{Add a descending Obj. \(Ctrl+d\)}{section.9.3}% 156
+\BOOKMARK [2][-]{subsection.9.3.5}{Insert a new parent }{section.9.3}% 157
+\BOOKMARK [2][-]{subsection.9.3.6}{Change obj. Name }{section.9.3}% 158
+\BOOKMARK [2][-]{subsection.9.3.7}{Set equation file label }{section.9.3}% 159
+\BOOKMARK [2][-]{subsection.9.3.8}{Ignore equation file controls }{section.9.3}% 160
+\BOOKMARK [2][-]{subsection.9.3.9}{Upload equation file }{section.9.3}% 161
+\BOOKMARK [2][-]{subsection.9.3.10}{Offload the equation file }{section.9.3}% 162
+\BOOKMARK [2][-]{subsection.9.3.11}{Compare eq. files }{section.9.3}% 163
+\BOOKMARK [2][-]{subsection.9.3.12}{Generate automatic documentation }{section.9.3}% 164
+\BOOKMARK [2][-]{subsection.9.3.13}{Create report }{section.9.3}% 165
+\BOOKMARK [2][-]{subsection.9.3.14}{Create LaTex report }{section.9.3}% 166
+\BOOKMARK [2][-]{subsection.9.3.15}{Find an element of the model \(Ctrl+f\)}{section.9.3}% 167
+\BOOKMARK [1][-]{section.9.4}{Menu Data}{chapter.9}% 168
+\BOOKMARK [2][-]{subsection.9.4.1}{Set number of objects \(Ctrl+o\)}{section.9.4}% 169
+\BOOKMARK [2][-]{subsection.9.4.2}{Init. values \(Ctrl+i\)}{section.9.4}% 170
+\BOOKMARK [2][-]{subsection.9.4.3}{Sensitivity \(parallel\) }{section.9.4}% 171
+\BOOKMARK [2][-]{subsection.9.4.4}{Sensitivity \(sequential\) }{section.9.4}% 172
+\BOOKMARK [2][-]{subsection.9.4.5}{Analysis of Results \(Ctrl+a\)}{section.9.4}% 173
+\BOOKMARK [2][-]{subsection.9.4.6}{Save Results \(Ctrl+z\)}{section.9.4}% 174
+\BOOKMARK [2][-]{subsection.9.4.7}{Data Browse \(Ctrl+b\)}{section.9.4}% 175
+\BOOKMARK [1][-]{section.9.5}{Menu Run}{chapter.9}% 176
+\BOOKMARK [2][-]{subsection.9.5.1}{Run \(Ctrl+r\)}{section.9.5}% 177
+\BOOKMARK [2][-]{subsection.9.5.2}{Set sim. settings \(Ctrl+m\)}{section.9.5}% 178
+\BOOKMARK [2][-]{subsection.9.5.3}{Remove debug flags }{section.9.5}% 179
+\BOOKMARK [2][-]{subsection.9.5.4}{Remove save flags }{section.9.5}% 180
+\BOOKMARK [2][-]{subsection.9.5.5}{Remove plot flags }{section.9.5}% 181
+\BOOKMARK [2][-]{subsection.9.5.6}{Show elements saved }{section.9.5}% 182
+\BOOKMARK [2][-]{subsection.9.5.7}{Show elements to observe }{section.9.5}% 183
+\BOOKMARK [2][-]{subsection.9.5.8}{Show elements to initialize }{section.9.5}% 184
+\BOOKMARK [2][-]{subsection.9.5.9}{Remove run time plots }{section.9.5}% 185
+\BOOKMARK [1][-]{section.9.6}{Menu Help}{chapter.9}% 186
+\BOOKMARK [1][-]{section.9.7}{Module Set Objects' number}{chapter.9}% 187
+\BOOKMARK [1][-]{section.9.8}{Module Initial values}{chapter.9}% 188
+\BOOKMARK [2][-]{subsection.9.8.1}{Initialization functions}{section.9.8}% 189
+\BOOKMARK [1][-]{section.9.9}{Module Analysis of Results}{chapter.9}% 190
+\BOOKMARK [2][-]{subsection.9.9.1}{Selecting series to process}{section.9.9}% 191
+\BOOKMARK [2][-]{subsection.9.9.2}{Advanced selection}{section.9.9}% 192
+\BOOKMARK [2][-]{subsection.9.9.3}{Graphs general options}{section.9.9}% 193
+\BOOKMARK [2][-]{subsection.9.9.4}{Graph windows' features}{section.9.9}% 194
+\BOOKMARK [2][-]{subsection.9.9.5}{Graph type Time Series - Sequence}{section.9.9}% 195
+\BOOKMARK [2][-]{subsection.9.9.6}{Graph type Cross section - Sequence}{section.9.9}% 196
+\BOOKMARK [2][-]{subsection.9.9.7}{Graph type Time Series - XY plot}{section.9.9}% 197
+\BOOKMARK [2][-]{subsection.9.9.8}{Graph type Cross section - XY plot}{section.9.9}% 198
+\BOOKMARK [2][-]{subsection.9.9.9}{Graph type Histograms}{section.9.9}% 199
+\BOOKMARK [2][-]{subsection.9.9.10}{Graph type Lattice}{section.9.9}% 200
+\BOOKMARK [2][-]{subsection.9.9.11}{Statistics}{section.9.9}% 201
+\BOOKMARK [2][-]{subsection.9.9.12}{Exporting data}{section.9.9}% 202
+\BOOKMARK [2][-]{subsection.9.9.13}{Exporting graphs}{section.9.9}% 203
+\BOOKMARK [2][-]{subsection.9.9.14}{Adding further series}{section.9.9}% 204
+\BOOKMARK [1][-]{section.9.10}{Module L-.58exS-.2exD Debugger and Data Browser}{chapter.9}% 205
+\BOOKMARK [2][-]{subsection.9.10.1}{Inspecting and changing elements' states}{section.9.10}% 206
+\BOOKMARK [2][-]{subsection.9.10.2}{Inspecting and changing objects}{section.9.10}% 207
+\BOOKMARK [2][-]{subsection.9.10.3}{Moving the browser through the objec structure}{section.9.10}% 208
+\BOOKMARK [2][-]{subsection.9.10.4}{Simulation run' controls}{section.9.10}% 209
+\BOOKMARK [2][-]{subsection.9.10.5}{Debugger header}{section.9.10}% 210
+\BOOKMARK [1][-]{section.9.11}{Log window features}{chapter.9}% 211
+\BOOKMARK [2][-]{subsection.9.11.1}{Button Stop}{section.9.11}% 212
+\BOOKMARK [2][-]{subsection.9.11.2}{Button Fast}{section.9.11}% 213
+\BOOKMARK [2][-]{subsection.9.11.3}{Button Observe}{section.9.11}% 214
+\BOOKMARK [2][-]{subsection.9.11.4}{Button Debug}{section.9.11}% 215
+\BOOKMARK [2][-]{subsection.9.11.5}{Button Help}{section.9.11}% 216
+\BOOKMARK [2][-]{subsection.9.11.6}{Button Copy}{section.9.11}% 217
+\BOOKMARK [1][-]{section.9.12}{Model structure window features}{chapter.9}% 218
+\BOOKMARK [0][-]{chapter.10}{L-.58exS-.2exD modelling language }{part.3}% 219
+\BOOKMARK [1][-]{section.10.1}{Introduction}{chapter.10}% 220
+\BOOKMARK [2][-]{subsection.10.1.1}{Model structure}{section.10.1}% 221
+\BOOKMARK [2][-]{subsection.10.1.2}{L-.58exS-.2exD equations}{section.10.1}% 222
+\BOOKMARK [1][-]{section.10.2}{Computable elements: variables and functions}{chapter.10}% 223
+\BOOKMARK [1][-]{section.10.3}{L-.58exS-.2exD Simulation Manager}{chapter.10}% 224
+\BOOKMARK [1][-]{section.10.4}{Environment for L-.58exS-.2exD equations}{chapter.10}% 225
+\BOOKMARK [2][-]{subsection.10.4.1}{Managing time lags}{section.10.4}% 226
+\BOOKMARK [2][-]{subsection.10.4.2}{Managing multiple copies}{section.10.4}% 227
+\BOOKMARK [1][-]{section.10.5}{C++ basic grammar for L-.58exS-.2exD coding}{chapter.10}% 228
+\BOOKMARK [2][-]{subsection.10.5.1}{Comments}{section.10.5}% 229
+\BOOKMARK [2][-]{subsection.10.5.2}{Assignments, arithmetic operations and increments}{section.10.5}% 230
+\BOOKMARK [2][-]{subsection.10.5.3}{if ... then ... else}{section.10.5}% 231
+\BOOKMARK [2][-]{subsection.10.5.4}{Use of cycle for}{section.10.5}% 232
+\BOOKMARK [1][-]{section.10.6}{System variables available for equations' writing}{chapter.10}% 233
+\BOOKMARK [2][-]{subsection.10.6.1}{System variables locally available within an equation}{section.10.6}% 234
+\BOOKMARK [2][-]{subsection.10.6.2}{System variables specific to the equation under computation}{section.10.6}% 235
+\BOOKMARK [2][-]{subsection.10.6.3}{Global system variables}{section.10.6}% 236
+\BOOKMARK [1][-]{section.10.7}{L-.58exS-.2exD objects' links: ->up, ->next and ->son}{chapter.10}% 237
+\BOOKMARK [1][-]{section.10.8}{L-.58exS-.2exD commands for equations}{chapter.10}% 238
+\BOOKMARK [2][-]{subsection.10.8.1}{EQUATION\("Label"\) ... RESULT\(value\) }{section.10.8}% 239
+\BOOKMARK [2][-]{subsection.10.8.2}{V\("X"\) }{section.10.8}% 240
+\BOOKMARK [2][-]{subsection.10.8.3}{V\137CHEAT\("X", fake\137caller\) }{section.10.8}% 241
+\BOOKMARK [2][-]{subsection.10.8.4}{SUM\("X"\) }{section.10.8}% 242
+\BOOKMARK [2][-]{subsection.10.8.5}{STAT\(X\) }{section.10.8}% 243
+\BOOKMARK [2][-]{subsection.10.8.6}{WHTAVE\("X","W"\) }{section.10.8}% 244
+\BOOKMARK [2][-]{subsection.10.8.7}{MAX\("X"\) }{section.10.8}% 245
+\BOOKMARK [2][-]{subsection.10.8.8}{Mathematical and probabilistic commands}{section.10.8}% 246
+\BOOKMARK [2][-]{subsection.10.8.9}{WRITE\("X",value\) }{section.10.8}% 247
+\BOOKMARK [2][-]{subsection.10.8.10}{INCR\("X",value\) }{section.10.8}% 248
+\BOOKMARK [2][-]{subsection.10.8.11}{MULT\("X",value\) }{section.10.8}% 249
+\BOOKMARK [2][-]{subsection.10.8.12}{SEARCH\("X"\) }{section.10.8}% 250
+\BOOKMARK [2][-]{subsection.10.8.13}{SEARCH\137CND\("X",value\) }{section.10.8}% 251
+\BOOKMARK [2][-]{subsection.10.8.14}{RNDDRAW\("X","Y"\) }{section.10.8}% 252
+\BOOKMARK [2][-]{subsection.10.8.15}{CYCLE\(obj,"ObjLabel"\) }{section.10.8}% 253
+\BOOKMARK [2][-]{subsection.10.8.16}{SORT\("ObjLabel","VarOrParLabel",DIRECTION\)}{section.10.8}% 254
+\BOOKMARK [2][-]{subsection.10.8.17}{ADDOBJ\("X"\) }{section.10.8}% 255
+\BOOKMARK [2][-]{subsection.10.8.18}{DELETE\(obj\) }{section.10.8}% 256
+\BOOKMARK [2][-]{subsection.10.8.19}{INTERACT\("message", value\)}{section.10.8}% 257
+\BOOKMARK [2][-]{subsection.10.8.20}{PARAMETER}{section.10.8}% 258
+\BOOKMARK [2][-]{subsection.10.8.21}{Lattices: creation and updating}{section.10.8}% 259
+\BOOKMARK [2][-]{subsection.10.8.22}{close\137sim\(\) function}{section.10.8}% 260
+\BOOKMARK [2][-]{subsection.10.8.23}{Free pointer hook}{section.10.8}% 261
+\BOOKMARK [2][-]{subsection.10.8.24}{turbosearch, initturbo}{section.10.8}% 262
+\BOOKMARK [1][-]{section.10.9}{User defined external functions}{chapter.10}% 263
+\BOOKMARK [1][-]{section.10.10}{External functions from C++ libraries}{chapter.10}% 264
+\BOOKMARK [0][-]{chapter.11}{Error Messages}{part.3}% 265
+\BOOKMARK [1][-]{section.11.1}{Configuration errors}{chapter.11}% 266
+\BOOKMARK [2][-]{subsection.11.1.1}{/usr/bin/ld: cannot find -ltcl8.3 }{section.11.1}% 267
+\BOOKMARK [2][-]{subsection.11.1.2}{undefined reference to '\137\137gxx\137personality\137v0'}{section.11.1}% 268
+\BOOKMARK [2][-]{subsection.11.1.3}{Other undefined reference ... errors}{section.11.1}% 269
+\BOOKMARK [1][-]{section.11.2}{Equations' programming errors}{chapter.11}% 270
+\BOOKMARK [2][-]{subsection.11.2.1}{fun\137sd.cpp:17: error: ÔXXXÕ was not declared in this scope}{section.11.2}% 271
+\BOOKMARK [2][-]{subsection.11.2.2}{fun\137XXX.cpp:99: parse error before ... }{section.11.2}% 272
+\BOOKMARK [2][-]{subsection.11.2.3}{lsd\137gnu.exe: Permission denied }{section.11.2}% 273
+\BOOKMARK [2][-]{subsection.11.2.4}{fun\137pippo.cpp:99: label `end' used but not defined}{section.11.2}% 274
+\BOOKMARK [1][-]{section.11.3}{Simulation run errors}{chapter.11}% 275
+\BOOKMARK [2][-]{subsection.11.3.1}{Simulation just run}{section.11.3}% 276
+\BOOKMARK [2][-]{subsection.11.3.2}{The simulation cannot start because 'XXX' has not been initialized}{section.11.3}% 277
+\BOOKMARK [2][-]{subsection.11.3.3}{Error in equation for 'XXX'. The model does not contain any element 'YYY'}{section.11.3}% 278
+\BOOKMARK [2][-]{subsection.11.3.4}{Error trying to compute variable XXX. Equation not found}{section.11.3}% 279
+\BOOKMARK [2][-]{subsection.11.3.5}{At time 'T' the equation for 'XXX' produced the non-valid value...}{section.11.3}% 280
+\BOOKMARK [2][-]{subsection.11.3.6}{Search for 'XXX' failed}{section.11.3}% 281
+\BOOKMARK [2][-]{subsection.11.3.7}{Operation 'zzz' requested to a NULL pointer in equation for 'XXX'}{section.11.3}% 282
+\BOOKMARK [2][-]{subsection.11.3.8}{L-.58exS-.2exD crashes - DEBUG\137AT\(T\) }{section.11.3}% 283
+\BOOKMARK [2][-]{subsection.11.3.9}{Use of gdb debugger}{section.11.3}% 284
+\BOOKMARK [-1][-]{part.4}{IV L-.58exS-.2exD project}{}% 285
+\BOOKMARK [0][-]{chapter.12}{LMM source code}{part.4}% 286
+\BOOKMARK [0][-]{chapter.13}{L-.58exS-.2exD source files}{part.4}% 287
+\BOOKMARK [0][-]{chapter.14}{Adding new features to L-.58exS-.2exD}{part.4}% 288
+\BOOKMARK [0][-]{chapter.15}{Adding new members to the equations' language}{part.4}% 289
+\BOOKMARK [0][-]{chapter.16}{Adding new functionalities to the L-.58exS-.2exD interfaces}{part.4}% 290

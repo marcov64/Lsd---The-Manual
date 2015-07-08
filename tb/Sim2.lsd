@@ -1,0 +1,151 @@
+	
+Label Root
+{
+	Son: m
+	Label m
+	{
+		Son: u
+		Label u
+		{
+			Var: q
+			Var: Prob
+			Param: id
+
+		}
+
+		Var: a
+		Param: min
+		Param: max
+		Var: TotProb
+
+	}
+
+
+}
+
+
+DATA
+
+Object: Root C	1
+
+Object: m C	1
+Var: a 0 s + n n
+Param: min 0 n + n n	0.01
+Param: max 0 n + n n	5
+Var: TotProb 0 s + n n
+
+Object: u C	2
+Var: q 0 s + n n
+Var: Prob 0 s + n n
+Param: id 0 n + n n	1	2
+
+SIM_NUM 1
+SEED 1
+MAX_STEP 100000
+EQUATION fun_tb.cpp
+ MODELREPORT modelreport.html
+
+DESCRIPTION
+
+Object_Root
+(no description available)
+END_DESCRIPTION
+
+Object_m
+(no description available )
+_INIT_
+
+END_DESCRIPTION
+
+Variable_a
+(no description available)
+_INIT_
+ All 1000 instances set ranging from 0 to 5 (i.e. increments of 0.00500501).
+END_DESCRIPTION
+
+Parameter_min
+(no description available)
+_INIT_
+
+END_DESCRIPTION
+
+Parameter_max
+(no description available)
+_INIT_
+
+END_DESCRIPTION
+
+Variable_TotProb
+(no description available)
+_INIT_
+
+END_DESCRIPTION
+
+Object_u
+(no description available )
+_INIT_
+
+END_DESCRIPTION
+
+Variable_q
+(no description available)
+_INIT_
+
+END_DESCRIPTION
+
+Variable_Prob
+(no description available)
+_INIT_
+
+END_DESCRIPTION
+
+Parameter_id
+(no description available)
+_INIT_
+ All 2000 instances increasing from 1 with steps 1 re-starting for each group of Objects.
+END_DESCRIPTION
+
+
+DOCUOBSERVE
+
+END_DOCUOBSERVE
+
+
+DOCUINITIAL
+
+END_DOCUINITIAL
+
+
+EQ_FILE
+#include "fun_head.h"
+
+MODELBEGIN
+
+
+
+
+EQUATION("Prob")
+/*
+Comment
+*/
+
+RESULT(pow(V("q"),V("a")) )
+
+
+
+
+
+
+MODELEND
+
+
+
+
+void close_sim(void)
+{
+
+}
+
+
+
+END_EQ_FILE
